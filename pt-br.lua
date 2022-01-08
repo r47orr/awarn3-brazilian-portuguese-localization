@@ -5,7 +5,7 @@ AWarn.Localization:RegisterLanguage( language_code, "Português brasileiro" )
 -- Credit: https://www.gmodstore.com/users/saigonosamurai
 
 AWarn.Localization:AddDefinition( language_code, "welcome1", 					"Bem-vindo ao AWarn3!" )
-AWarn.Localization:AddDefinition( language_code, "insufficientperms", 			"Você não tem permissão para rodar este comando." )
+AWarn.Localization:AddDefinition( language_code, "insufficientperms", 			"Você não tem permissão para executar este comando." )
 AWarn.Localization:AddDefinition( language_code, "insufficientperms2", 			"Você não tem permissão para ver as advertências deste jogador." )
 AWarn.Localization:AddDefinition( language_code, "commandnonexist", 			"Este comando não existe." )
 AWarn.Localization:AddDefinition( language_code, "invalidtargetid", 			"ID ou alvo inválido." )
@@ -106,7 +106,7 @@ AWarn.Localization:AddDefinition( language_code, "adminjoinmessagedescription",	
 AWarn.Localization:AddDefinition( language_code, "chatprefixdescription",		"O comando padrão do AWarn3 usado para o menu de comandos. Padrão: !warn" )
 AWarn.Localization:AddDefinition( language_code, "warningdecayratedescription",	"O tempo (em minutos) que um jogador precisa estar conectado para que uma advertência ativa expire." )
 AWarn.Localization:AddDefinition( language_code, "servernamedescription",		"O nome deste servidor. Isto é útil para configurações múltiplas de servidores" )
-AWarn.Localization:AddDefinition( language_code, "selectlanguagedescription",	"This is the language that server messages will be displayed in." )
+AWarn.Localization:AddDefinition( language_code, "selectlanguagedescription",	"Este é o idioma em que as mensagens serão exibidas no servidor." )
 AWarn.Localization:AddDefinition( language_code, "theme",						"Tema da Interface" )
 AWarn.Localization:AddDefinition( language_code, "themeselect",					"Selecione o Tema" )
 AWarn.Localization:AddDefinition( language_code, "punishgroup",					"Grupo de Punição" )
