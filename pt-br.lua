@@ -2,7 +2,7 @@ local language_code = "PT-BR"
 
 AWarn.Localization:RegisterLanguage( language_code, "Português brasileiro" )
 
-// Credit: https://www.gmodstore.com/users/saigonosamurai
+-- Credit: https://www.gmodstore.com/users/saigonosamurai
 
 AWarn.Localization:AddDefinition( language_code, "welcome1", 					"Bem-vindo ao AWarn3!" )
 AWarn.Localization:AddDefinition( language_code, "insufficientperms", 			"Você não tem permissão para rodar este comando." )
